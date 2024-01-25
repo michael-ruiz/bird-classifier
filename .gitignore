@@ -1,0 +1,5 @@
+# Ignore Data
+/Bird_Data
+
+# Other
+.DS_Store
